@@ -1345,7 +1345,7 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="Bloodsea of Istar" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
   </attachmentList>
   <initialize>
