@@ -1,0 +1,3 @@
+map_name: war_of_the_lance
+games:
+- {game_name: War of the Lance, file_name: War_of_the_Lance.xml}
